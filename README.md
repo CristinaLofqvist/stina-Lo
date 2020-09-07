@@ -19,3 +19,4 @@ Here are some ideas to get you started:
   * 👯 I am a collaborater on a React library
   * 🌱 I’m currently learning Node JS
   * 📫 How to reach me: crlo1900@student.miun.se
+  * :office: organisations: World of webcraft
