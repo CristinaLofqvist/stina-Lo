@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 -->
-![Alt](/IMG_1564.png "profil")
 
   * 🔭 I’m currently a student for the second year in the webdeveloper program at Sweden Mid univeristy. 
   * 👯 I am a collaborater on a React library
