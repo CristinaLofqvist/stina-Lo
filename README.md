@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
   * 🔭 I’m currently a student for the second year in the webdeveloper program at Sweden Mid univeristy. 
   * 👯 I am a collaborater on a React library
-  * 🌱 I’m currently learning Node JS
-  * 📫 How to reach me: crlo1900@student.miun.se
+  * 🌱 I’m currently learning C#
+  * 📫 How to reach me: cristina.lofqvist@gmail.com
   * :office: organisations: World of webcraft
